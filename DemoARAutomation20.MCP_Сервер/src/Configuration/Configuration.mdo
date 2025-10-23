@@ -24,6 +24,7 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.2</version>
   <languages uuid="3934c8ff-fc70-4830-a011-1fe02d9fe553">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
