@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e7198b1b-bf5c-464b-be56-f633ba1cad08">
+  <producedTypes>
+    <objectType typeId="77389aa6-42c3-4530-84ae-97d266e8911c" valueTypeId="870c775a-868a-4b66-ad22-beaa7ea17ad0"/>
+    <managerType typeId="8ca16b19-d4a0-445e-b1a3-64fc089ac8db" valueTypeId="1eb68566-bb14-446a-a6bf-3f054345eaea"/>
+  </producedTypes>
+  <name>mcp_ПолучениеЦенЗакупкиНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Получение цен закупки номенклатуры</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
